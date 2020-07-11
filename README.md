@@ -1,0 +1,2 @@
+# django-blogs-website
+This is a Django Framweork Python based project where we build a web application for blogging. The signed in users can create the posts, update or delete them on the fly. The users can also retrieve their password if forgotten through email. There is also a admin for managing the overall structure and viewing all the user information. SQLLite database is used and since this is ORM based framework, the developer don't have to worry about querring in the database.
